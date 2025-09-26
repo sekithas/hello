@@ -1,0 +1,2 @@
+# Ignore debug symbol files generated on macOS (dSYM files)
+*.dSYM/
